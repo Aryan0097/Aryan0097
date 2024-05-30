@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan0097&label=Profile%20views&color=0e75b6&style=flat" alt="aryan0097" /> </p>
 
 - 🌱 I’m currently learning **DSA & JAVA SpringBoot**
+-  I’m from Ahmedabad, Gujarat.
 
 - 📫 How to reach me **aryan.satani@gmail.com**
 <br>
