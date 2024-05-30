@@ -23,7 +23,7 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan0097&show_icons=true&locale=en&layout=compact" alt="aryan0097" /></p>
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <div>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryan0097&show_icons=true&locale=en" alt="aryan0097" /></p>
 </div>
